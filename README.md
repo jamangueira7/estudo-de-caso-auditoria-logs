@@ -2,8 +2,6 @@
 
 *Estudo de caso de engenharia de software · painel interno de operações e faturamento · dez/2023 a out/2026*
 
-> **Nota de confidencialidade:** este material descreve uma experiência profissional. Antes de publicar, confirme com a empresa a autorização para divulgar os números, os períodos, as características da solução e qualquer trecho de código. Não publique nomes, dados de clientes, identificadores, estrutura interna ou informações operacionais sem autorização.
-
 ![Fluxo de auditoria](imagens/05-fluxo-auditoria-revisado.png)
 
 ## Resumo executivo
